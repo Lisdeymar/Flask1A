@@ -27,18 +27,6 @@ table tr td{
 }
 
 /*normal
-.color1{
-    background-color: red;
-    width: 40px;
-    height: 40px;
-}
-
-.color2{
-    background-color: black;
-    width: 40px;
-    height: 40px;
-}
-
 .color1:hover{
     background-color: black;
     cursor: pointer;
